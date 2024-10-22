@@ -36,7 +36,6 @@ I'm a passionate **Cybersecurity Expert** and **Blockchain Developer** with a sp
 ---
 
 ## 🛠️ **Top Projects**:
--  **DeckOfDestiny (Ongoing)**: A Solana-based turn-based card game project.
 -  **KeySafe Wallet**: A multi-chain cryptocurrency wallet supporting ETH and SOL, with plans to expand to more blockchains.
 -  **Crowdfunding Platform**: A decentralized platform built on Ethereum for transparent and secure fundraising.
 
